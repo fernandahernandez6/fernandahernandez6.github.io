@@ -1,0 +1,17 @@
+header { 
+  height: 80px;
+  background: peachpuff;
+  text-align: center;
+}
+
+body {
+  backround: solid maroon;
+}
+
+img {
+  border: 5px solid maroon;
+  
+  
+}
+ul { color: pink; 
+}
